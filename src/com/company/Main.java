@@ -17,6 +17,7 @@ public class Main {
         Monomio m1= new Monomio(g,3);
         Monomio m2= new Monomio(h,3);
 
+
         Monomio m3= new Monomio(i);
 
 
